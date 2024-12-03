@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Randomzo
+- 👋 Hi, I’m @Randomzo (Esiyemeh Idogho)
 - 👀 I’m interested in C, C++, Python And Music
 - 🌱 I’m currently learning C, C++, Python
 - 💞️ I’m looking to collaborate on Beginner-friendly projects
